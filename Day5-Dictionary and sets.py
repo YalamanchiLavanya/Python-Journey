@@ -267,7 +267,7 @@ EX:
 go = {1,2,3,4,2,1,3}
 new_go = go.copy()
 print(new_go)
-'''
+
 
 
 
