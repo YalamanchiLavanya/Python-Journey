@@ -7,3 +7,5 @@ This repository provides a comprehensive overview of Python operators with simpl
 A beginner-friendly Python notes file covering Data Types (int, float, string), string operations, indexing, concatenation, common string methods (replace(), join(), split(), count()), built-in functions (len(), max(), min()), and a simple 24-hour to 12-hour time conversion program.
 # Day4-Lists and Tuples
 Day 4 of my Python learning journey! This repository covers Python Lists and Tuples, including their properties, indexing, built-in methods (append, extend, pop, remove, insert, sort, len, count, index), mutable vs immutable concepts, and tuple-to-list conversion with practical examples.
+# Day5-Dictionary and Sets
+This repository contains my Day 5 Python practice on Dictionaries and Sets. It covers the basics of key-value pairs, dictionary and set methods, set operations like union, intersection, and symmetric difference, along with simple examples to strengthen my understanding of Python collections. This is part of my journey to build a strong foundation in Python programming. 🚀
