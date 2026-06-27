@@ -1,4 +1,3 @@
-'''
 Dictionary
 -----------
 -->Dictionary is a key:value pair seperated by ':'
@@ -92,6 +91,43 @@ details_={"name":"lavanya",
 details_.update({'Mob NO':1234567890})
 print(details_)
 
+6.get()
+-->Returns the value of the specified key.
+Syntax:get(Variable_name)
+EX:
+details_={"name":"lavanya",
+          1:"number",
+          (12.23):[1,2],
+          "Age":22,
+          "Area":"srikakulam"}
+print(details_.get('name'))
+
+7.pop()
+-->Removes the specified key and returns its value
+Syntax:variable_name.pop(key)
+ex:
+details_={"name":"lavanya",
+          1:"number",
+          (12.23):[1,2],
+          "Age":22,
+          "Area":"srikakulam"}
+age = details_.pop("age")
+print(age)
+print(details_)
+
+8.popitem()
+-->Removes and returns the last inserted key-value pair.
+Syntax:variable_name.popitem()
+ex:
+details_={"name":"lavanya",
+          1:"number",
+          (12.23):[1,2],
+          "Age":22,
+          "Area":"srikakulam"}
+
+print(details_.popitem())
+print(details_)
+
 ##How to access the values in the dictionary
 EX:
 details_={"name":"lavanya",
@@ -148,6 +184,13 @@ come={2,3,4,5,6,8}
 print(go ^ come)
 print(go.symmetric_difference(come))
 
+4.diifference()
+-->Returns elements that are in the first set but not in the second
+Syntax:Variable1.difference(variable2)
+EX:
+go = {1,2,3,4,2,1,3}
+come = {2,3,5,6}
+print(go.difference(come))
 Built-in Functions
 ---------------------
 1.add()
@@ -200,6 +243,30 @@ EX:
 go={1,2,3,4,2,1,3}
 go.discard(5)
 print(go)
+
+7.update()
+-->Adds multiple elements to the set
+Syntax:variable_name.update()
+Ex:
+go = {1,2,3,4,2,1,3}
+go.update({5,6,7})
+print(go)
+
+8.clear()
+-->Removes all elements.
+Syntax:variable_name.clear()
+EX:
+go = {1,2,3,4,2,1,3}
+go.clear()
+print(go)
+
+9.copy()
+-->Creates a copy of the set.
+Syntax:new_variable=old_variable.copy()
+EX:
+go = {1,2,3,4,2,1,3}
+new_go = go.copy()
+print(new_go)
 '''
 
 
