@@ -1,4 +1,4 @@
-'''
+
 #Remove dulipictaes from list
 nums=[23,4,6,23,7,4]
 empty_=[]
