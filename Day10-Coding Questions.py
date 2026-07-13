@@ -1,4 +1,4 @@
-'''
+''' 
 1.Prime Number
 
 num=int(input("Enter a Number:"))
