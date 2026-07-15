@@ -8,7 +8,7 @@ if empty == so:
 else:
     print(f"{so} is not a palindrom")
 
-
+ 
 #fibonacci series
 num = 0
 num2 = 1
