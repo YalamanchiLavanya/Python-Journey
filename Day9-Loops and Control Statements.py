@@ -3,7 +3,7 @@ Loop Statements
 ---------------
 -->Loops are two types
 1.For Loop
------------
+----------- 
 -->For Loop is used to itterate over a sequence ,list,tuple
 -->Why the variable is not defined in anywhere and not an error
 **Because it is instance variable
