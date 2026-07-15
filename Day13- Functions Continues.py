@@ -3,7 +3,7 @@ Passing by  value
 -----------------
 -->Passing by value means sending a value to a function. The function uses that value to perform its work.
 Ex:
-def some(a):
+def some(a): 
     print(a)
 some(8)    
 
