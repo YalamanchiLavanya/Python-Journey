@@ -1,0 +1,98 @@
+'''
+OOps
+----
+-->Object-Oriented Programming System(OOPs)
+-->This will be organize the code using classes and objects
+
+Use of OOPs
+------------
+1.Code reusable
+2.Easy Maintainance
+3.Clear Understanding
+4.Better Security
+
+
+Classes
+---------
+-->Class is a blue print or a template used to create an object
+Syntax:
+--------
+-->class ClassName:
+
+Objects
+--------
+-->Object is a instance of the class
+Syntax:
+------
+Object Name=Class Name()
+
+Ex:
+class student:
+    stu="Lavanya"
+st_=student()
+print(st_)
+
+Attributes
+-----------
+-->Attributes are the variables that belongs to an object or the class
+EX:
+class how:
+    def __init__(self,name,age):
+        self.name=name
+        self.age=age
+    def nam(self):
+        print(self.name)
+        print(self.age)
+s1=how('Teja',67)
+print(s1.nam())
+
+Ex:
+class how:
+    def details(self,name,age):
+        self.name=name
+        self.age=age
+s1=how()        
+s1.details('Teja',67)
+print(s1.name)
+
+Methods
+--------
+-->Methods are Nothing but,the functions inside the class
+Ex:
+class Calculator:
+    def add(self,num,num_2):
+        print(num+num_2)
+    def sub(self,num,num_2):
+        print(num-num_2)    
+cal=Calculator()
+cal.add(45,6)
+cal.sub(90,10)
+        
+'''
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
