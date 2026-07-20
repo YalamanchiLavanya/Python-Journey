@@ -46,3 +46,5 @@ Day 22 of my Python learning journey focuses on the concept of Inheritance in Ob
 # Day23-Pilymorphism  and Abstraction
 Day 23 learny Python OOP – Polymorphism & Data Abstraction
 Implemented core Object-Oriented Programming concepts in Python, including Method Overloading, Method Overriding, Operator Overloading, and Data Abstraction using abstract classes (ABC) and abstract methods. Practiced real-world examples to understand code reusability, flexibility, and abstraction in Python applications.
+#Day24-University Management System Project
+Developed a University Management System using Object-Oriented Programming (OOP) principles in Python. Implemented inheritance, encapsulation, polymorphism (method overriding), class methods, static methods, and class attributes to manage different university roles, including Students, Faculty, Librarians, Bus Drivers, Cleaning Staff, Technical Staff, and Non-Technical Staff. The project demonstrates real-world OOP design by organizing employee and student information while tracking role-wise records and shared university details.
