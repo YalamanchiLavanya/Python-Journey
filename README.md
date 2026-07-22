@@ -48,5 +48,7 @@ Day 23 learny Python OOP – Polymorphism & Data Abstraction
 Implemented core Object-Oriented Programming concepts in Python, including Method Overloading, Method Overriding, Operator Overloading, and Data Abstraction using abstract classes (ABC) and abstract methods. Practiced real-world examples to understand code reusability, flexibility, and abstraction in Python applications.
 #Day24-University Management System Project
 Developed a University Management System using Object-Oriented Programming (OOP) principles in Python. Implemented inheritance, encapsulation, polymorphism (method overriding), class methods, static methods, and class attributes to manage different university roles, including Students, Faculty, Librarians, Bus Drivers, Cleaning Staff, Technical Staff, and Non-Technical Staff. The project demonstrates real-world OOP design by organizing employee and student information while tracking role-wise records and shared university details.
-# Day 26: Python Exception Handling
+# Day 25: Python Exception Handling
 Implemented Python Exception Handling concepts by exploring different types of errors, including SyntaxError, IndentationError, and ValueError. Practiced using try, except, else, and finally blocks to handle runtime exceptions such as ValueError, NameError, and ZeroDivisionError, improving program reliability and robustness through structured error handling
+# Day 26-Python File Handling
+Implemented Python File Handling concepts using the open() function and the with statement. Practiced different file modes (r, w, a, and x) along with essential file operations such as read(), write(), readline(), and readlines(). Gained hands-on experience in creating, reading, writing, updating, and managing text files efficiently using Python.
