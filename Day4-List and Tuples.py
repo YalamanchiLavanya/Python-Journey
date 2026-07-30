@@ -1,4 +1,4 @@
-List DataType
+List DataType 
 -------------
 -->List is collection of different datatypes that are enclosed in [] separatedv by ','
 -->List is muttable
