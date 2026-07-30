@@ -1,4 +1,4 @@
-'''
+''
 Generators
 ----------
 -->This generator is a special function that returns the itertor.
