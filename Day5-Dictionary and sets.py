@@ -1,5 +1,5 @@
 Dictionary
------------
+----------- 
 -->Dictionary is a key:value pair seperated by ':'
 -->key are to be unique
 -->duplicate keys not allowed
