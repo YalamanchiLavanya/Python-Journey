@@ -1,5 +1,5 @@
 '''
-SMTP module
+SMTP module 
 email.message
 
 plnz buxg exed dsww
