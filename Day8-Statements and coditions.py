@@ -1,5 +1,5 @@
 
-Statements
+Statements 
 ------------
 -->Statements are instructions written in a program that tell Python what action to perform. Every line of executable code in Python is called a statement.
 -->Statements are three types
