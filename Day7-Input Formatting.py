@@ -1,6 +1,6 @@
 '''
 Input Formatting
------------------
+----------------- 
 -->Input means receiving data from the user while the program is running.
 -->Python uses the input() function to accept user input.
 -->By default, input() always returns data as a string
