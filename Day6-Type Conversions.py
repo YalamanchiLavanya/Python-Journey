@@ -1,7 +1,7 @@
 
 Type Conversion
 ----------------
--->This is process of converting one data type to another data type
+-->This is process of converting one data type to another data type 
 1.Int-->String,Float
 -->It can be convert into by using built-in functions like
 *str()
