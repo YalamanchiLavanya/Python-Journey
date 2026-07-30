@@ -1,4 +1,4 @@
-class Person:
+class Person: 
     university_name = "Codegnan University"   # Class Attribute
 
     def __init__(self, name, age, Edu_BG, Gender, Department):
