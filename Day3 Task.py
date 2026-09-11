@@ -13,10 +13,8 @@ def student_marks(*args, **kwargs):
     print("College:", kwargs["college"])
     print("Branch:", kwargs["branch"])
 
-
 student_marks(
     ("Lavanya", 85, 90, 80),
     ("Likhitha", 90, 88, 85),
     college="Amrutha College",
-    branch="Computer Science"
-)
+    branch="Computer Science")
